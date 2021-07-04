@@ -6,4 +6,4 @@ Los experimentos realizados y presentados aquí son los siguientes:
 - Medición del campo magnético terrestre
 - Conductividad del hierro
 - Constante dieléctrica del aire y de una lámina de plástico
-- **Medición del gap de energía del Si y Ge**
+##### Medición del gap de energía del Si y Ge
