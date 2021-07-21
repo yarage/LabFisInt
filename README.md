@@ -7,3 +7,4 @@ Los experimentos realizados y presentados aquí son los siguientes:
 - Conductividad del hierro
 - Constante dieléctrica del aire y de una lámina de plástico
 - Medición del gap de energía del Si y Ge
+- ### Radiación térmica
